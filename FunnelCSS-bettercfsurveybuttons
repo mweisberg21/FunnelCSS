@@ -1,3 +1,8 @@
+/* FUNNELCSS.COM
+Replace #tmp_survey_80889 with your survey element CSS ID. 
+Replace background-color with color of your choosing.
+*/
+
 #tmp_survey-80889 .surveyStepProgressCounter {
 background-color: #5cc8d3; 
 }
