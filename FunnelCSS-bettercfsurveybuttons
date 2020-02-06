@@ -1,0 +1,10 @@
+#tmp_survey-80889 .surveyStepProgressCounter {
+background-color: #5cc8d3; 
+}
+  
+#tmp_survey-80889  .surveyRadioOption {
+background-color: #5cc8d3;
+margin: 3px;
+color: white;
+  font-weight: bold;
+}
